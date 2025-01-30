@@ -31,6 +31,9 @@
   "todo-comments.nvim": { "branch": "main", "commit": "304a8d204ee787d2544d8bc23cd38d2f929e7cc5" },
   "tokyonight.nvim": { "branch": "main", "commit": "8cb8b1aded4087712030ef3e840ad6468fbc7b0f" },
   "vim-commentary": { "branch": "master", "commit": "64a654ef4a20db1727938338310209b6a63f60c9" },
+  "vim-dadbod": { "branch": "master", "commit": "9f0ca8bcef704659820a95c3bbd2c262583a66a1" },
+  "vim-dadbod-completion": { "branch": "master", "commit": "c7f1be21a08b8fc9d927a19db89a4aa995402787" },
+  "vim-dadbod-ui": { "branch": "master", "commit": "f4d37b7312ae6489e5c04bee654ca521baac188a" },
   "vim-fugitive": { "branch": "master", "commit": "d74a7cff4cfcf84f83cc7eccfa365488f3bbabc2" },
   "vim-sleuth": { "branch": "master", "commit": "be69bff86754b1aa5adcbb527d7fcd1635a84080" },
   "which-key.nvim": { "branch": "main", "commit": "0e76a87ac51772569aec678dc74baa8e2a86100c" }
